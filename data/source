@@ -1,5 +1,1 @@
-Download data from https://www.kaggle.com/datasets/vijaykumar1799/face-mask-detection
 
-The dataset contains 3 folders labeled as to which class they belong to. 
-The 3 classes are "with_mask", "withou_mask", and "mask_weared_incorrect". 
-Each folder holds 2994 images of people that belong to such a labeled class.
